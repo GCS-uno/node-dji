@@ -1,0 +1,23 @@
+{
+  "name": "node-dji",
+  "version": "1.0.0",
+  "description": "DJI drone communication with NodeJS and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GCS-uno/node-dji.git"
+  },
+  "author": "GCS.uno dev team",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/GCS-uno/node-dji/issues"
+  },
+  "homepage": "https://github.com/GCS-uno/node-dji#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
