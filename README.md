@@ -14,3 +14,9 @@ It works with our GCS.uno application from AppStore.
 ![GCS.uno_iOS_app](images/iOS_app_preview.jpg)
 
 [GCS.uno iOS app docs](https://docs.gcs.uno/GCS_uno_iOS_app/)
+
+[Support forum](https://www.gcs.uno/support-forum/gcs-uno-ios-application)
+
+
+
+
