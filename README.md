@@ -6,5 +6,11 @@ DJI drone communication with NodeJS and Socket.io
 It works with our GCS.uno application from AppStore.
 
 
-See `server.js` for example usage
+**See `server.js` for example usage**
 
+
+## GCS.uno mobile app for iOS devices
+
+![GCS.uno_iOS_app](images/iOS_app_preview.jpg)
+
+[GCS.uno iOS app docs](https://docs.gcs.uno/GCS_uno_iOS_app/)
