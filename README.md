@@ -11,9 +11,9 @@ It works with our GCS.uno application from AppStore.
 
 ## GCS.uno mobile app for iOS devices
 
-![GCS.uno_iOS_app](images/iOS_app_preview.jpg)
+![GCS.uno_iOS_app](images/iOS_App_Overview_1.png)
 
-[GCS.uno iOS app docs](https://docs.gcs.uno/GCS_uno_iOS_app/)
+[GCS.uno iOS app docs](https://docs.gcs.uno/ConnectDrone/GCS_uno_iOS_app/)
 
 [Support forum](https://www.gcs.uno/support-forum/gcs-uno-ios-application)
 
